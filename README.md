@@ -1,2 +1,2 @@
-# Pointer
+# Pointers
 HW #2
